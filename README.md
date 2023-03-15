@@ -5,8 +5,8 @@ style.CSS = Cómo se ve eso que hay (visualización)
 script.JavaScript = Qué hace eso que hay y se ve de cierta forma (programación)
 
 html:
-<h1>
-</h1>
+< h1 >
+</ h1 >
 
 css:
 H1{ color : red; }
