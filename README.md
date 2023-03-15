@@ -12,6 +12,6 @@ css:
 H1{ color : red; }
 
 ---
-Bibliotecas / library / librería  de JavaScript. Tiene cosas preparadas para algo en específico. p5.js es una biblioteca dedicada a la visualización. Va a facilitar el script que vayamos a hacer. 
+*Bibliotecas / library / librería  de JavaScript* -> Tiene cosas preparadas para algo en específico. p5.js es una biblioteca dedicada a la visualización. Va a facilitar el script que vayamos a hacer. 
 
 Vamos a usar un framework también llamado Bootstrap. 
